@@ -1,0 +1,151 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/yoshi1125hisa/Desktop/YajuCalc/YajuCalc/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/yoshi1125hisa/Desktop/YajuCalc/YajuCalc/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/yoshi1125hisa/Desktop/YajuCalc/YajuCalc/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/yoshi1125hisa/Desktop/YajuCalc/YajuCalc/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha3] /Users/yoshi1125hisa/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha3.aar/c0fadfc085dc3f314c3493fa4a98f311/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/yoshi1125hisa/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/6fbfca16dfce22be47a50239c620ba04/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0-alpha3] /Users/yoshi1125hisa/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-alpha3.aar/812bc70d1187a7eedf92016a4043dae3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha3] /Users/yoshi1125hisa/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-alpha3.aar/ca76326c0f22f1d0b913479947659e53/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] /Users/yoshi1125hisa/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-alpha3.aar/7e0d7ab954dc15147d9adf6cb04a4070/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] /Users/yoshi1125hisa/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-alpha3.aar/112380cff90db4e568db4860c4e17640/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha3] /Users/yoshi1125hisa/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-alpha3.aar/3ad12d843de55ee73fc9540ec4676c33/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-alpha3] /Users/yoshi1125hisa/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-alpha3.aar/2d693946dc1cdbb301d04c98e2f60437/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0-alpha3] /Users/yoshi1125hisa/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-alpha3.aar/fe08dc889230e8331d7233ebc591bd74/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] /Users/yoshi1125hisa/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-alpha3.aar/44d4df5110a5636bf58a299ba8a9b292/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] /Users/yoshi1125hisa/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-alpha3.aar/6546c9c4b99912fdd358caa34fd36d4c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] /Users/yoshi1125hisa/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-alpha3.aar/91fec65bd5a38c0bdb8eef94e029a476/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0-alpha3] /Users/yoshi1125hisa/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-alpha3.aar/10da5812a6ae47ee1c8a5202d278a4bb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] /Users/yoshi1125hisa/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-alpha3.aar/c380821d0d5ed6e41499afc8dacdcc40/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] /Users/yoshi1125hisa/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-alpha3.aar/a3177f92989f90dd0abb63f837082beb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] /Users/yoshi1125hisa/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/77304c9101c485a18fd4505af736b1e8/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] /Users/yoshi1125hisa/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-alpha3.aar/9fdd8c0f8a9126a8fdbc352e5b0a9f73/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/yoshi1125hisa/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/3fc645dfcf5643e0699fdd6d25919004/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] /Users/yoshi1125hisa/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-alpha3.aar/d65fbd1b52e48f3db2302f1d781f1f56/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:documentfile:28.0.0-alpha3] /Users/yoshi1125hisa/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-alpha3.aar/c611b5f9625c305f7e6d9d8e06e6badf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] /Users/yoshi1125hisa/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-alpha3.aar/df83315f22941e136dac3e37446f0a75/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0-alpha3] /Users/yoshi1125hisa/.gradle/caches/transforms-1/files-1.1/print-28.0.0-alpha3.aar/ec3a1f6efc4b9314bd5875964040353f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/yoshi1125hisa/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/e5fd3916eb29706adf4f1437927d46fa/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/yoshi1125hisa/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/714a5404a11c2f963af2cddc063c6338/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/yoshi1125hisa/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/839c0d4cd717e350361dbb90025e0dc0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0-alpha3] /Users/yoshi1125hisa/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-alpha3.aar/499f97a1fa768141bf18ab813bba8a1c/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/yoshi1125hisa/Desktop/YajuCalc/YajuCalc/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/yoshi1125hisa/Desktop/YajuCalc/YajuCalc/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/yoshi1125hisa/Desktop/YajuCalc/YajuCalc/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/yoshi1125hisa/Desktop/YajuCalc/YajuCalc/app/src/main/AndroidManifest.xml:3:5-51
+		INJECTED from /Users/yoshi1125hisa/Desktop/YajuCalc/YajuCalc/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yoshi1125hisa/Desktop/YajuCalc/YajuCalc/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/yoshi1125hisa/Desktop/YajuCalc/YajuCalc/app/src/main/AndroidManifest.xml
+		ADDED from /Users/yoshi1125hisa/Desktop/YajuCalc/YajuCalc/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/yoshi1125hisa/Desktop/YajuCalc/YajuCalc/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/yoshi1125hisa/Desktop/YajuCalc/YajuCalc/app/src/main/AndroidManifest.xml
+		ADDED from /Users/yoshi1125hisa/Desktop/YajuCalc/YajuCalc/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/yoshi1125hisa/Desktop/YajuCalc/YajuCalc/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/yoshi1125hisa/Desktop/YajuCalc/YajuCalc/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/yoshi1125hisa/Desktop/YajuCalc/YajuCalc/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/yoshi1125hisa/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/6fbfca16dfce22be47a50239c620ba04/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/yoshi1125hisa/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/6fbfca16dfce22be47a50239c620ba04/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] /Users/yoshi1125hisa/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/77304c9101c485a18fd4505af736b1e8/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] /Users/yoshi1125hisa/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/77304c9101c485a18fd4505af736b1e8/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] /Users/yoshi1125hisa/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-alpha3.aar/d65fbd1b52e48f3db2302f1d781f1f56/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] /Users/yoshi1125hisa/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-alpha3.aar/d65fbd1b52e48f3db2302f1d781f1f56/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0-alpha3] /Users/yoshi1125hisa/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/77304c9101c485a18fd4505af736b1e8/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/yoshi1125hisa/Desktop/YajuCalc/YajuCalc/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/yoshi1125hisa/Desktop/YajuCalc/YajuCalc/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/yoshi1125hisa/Desktop/YajuCalc/YajuCalc/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/yoshi1125hisa/Desktop/YajuCalc/YajuCalc/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/yoshi1125hisa/Desktop/YajuCalc/YajuCalc/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/yoshi1125hisa/Desktop/YajuCalc/YajuCalc/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.developer.yoshi1125hisa.yajucalc.MainActivity
+ADDED from /Users/yoshi1125hisa/Desktop/YajuCalc/YajuCalc/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/yoshi1125hisa/Desktop/YajuCalc/YajuCalc/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/yoshi1125hisa/Desktop/YajuCalc/YajuCalc/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/yoshi1125hisa/Desktop/YajuCalc/YajuCalc/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/yoshi1125hisa/Desktop/YajuCalc/YajuCalc/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/yoshi1125hisa/Desktop/YajuCalc/YajuCalc/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/yoshi1125hisa/Desktop/YajuCalc/YajuCalc/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/yoshi1125hisa/Desktop/YajuCalc/YajuCalc/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/yoshi1125hisa/Desktop/YajuCalc/YajuCalc/app/src/main/AndroidManifest.xml
+INJECTED from /Users/yoshi1125hisa/Desktop/YajuCalc/YajuCalc/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha3] /Users/yoshi1125hisa/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha3.aar/c0fadfc085dc3f314c3493fa4a98f311/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha3] /Users/yoshi1125hisa/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha3.aar/c0fadfc085dc3f314c3493fa4a98f311/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/yoshi1125hisa/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/6fbfca16dfce22be47a50239c620ba04/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/yoshi1125hisa/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/6fbfca16dfce22be47a50239c620ba04/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0-alpha3] /Users/yoshi1125hisa/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-alpha3.aar/812bc70d1187a7eedf92016a4043dae3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-alpha3] /Users/yoshi1125hisa/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-alpha3.aar/812bc70d1187a7eedf92016a4043dae3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha3] /Users/yoshi1125hisa/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-alpha3.aar/ca76326c0f22f1d0b913479947659e53/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha3] /Users/yoshi1125hisa/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-alpha3.aar/ca76326c0f22f1d0b913479947659e53/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] /Users/yoshi1125hisa/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-alpha3.aar/7e0d7ab954dc15147d9adf6cb04a4070/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] /Users/yoshi1125hisa/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-alpha3.aar/7e0d7ab954dc15147d9adf6cb04a4070/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] /Users/yoshi1125hisa/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-alpha3.aar/112380cff90db4e568db4860c4e17640/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] /Users/yoshi1125hisa/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-alpha3.aar/112380cff90db4e568db4860c4e17640/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha3] /Users/yoshi1125hisa/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-alpha3.aar/3ad12d843de55ee73fc9540ec4676c33/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha3] /Users/yoshi1125hisa/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-alpha3.aar/3ad12d843de55ee73fc9540ec4676c33/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha3] /Users/yoshi1125hisa/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-alpha3.aar/2d693946dc1cdbb301d04c98e2f60437/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha3] /Users/yoshi1125hisa/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-alpha3.aar/2d693946dc1cdbb301d04c98e2f60437/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha3] /Users/yoshi1125hisa/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-alpha3.aar/fe08dc889230e8331d7233ebc591bd74/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha3] /Users/yoshi1125hisa/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-alpha3.aar/fe08dc889230e8331d7233ebc591bd74/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] /Users/yoshi1125hisa/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-alpha3.aar/44d4df5110a5636bf58a299ba8a9b292/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] /Users/yoshi1125hisa/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-alpha3.aar/44d4df5110a5636bf58a299ba8a9b292/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] /Users/yoshi1125hisa/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-alpha3.aar/6546c9c4b99912fdd358caa34fd36d4c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] /Users/yoshi1125hisa/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-alpha3.aar/6546c9c4b99912fdd358caa34fd36d4c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] /Users/yoshi1125hisa/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-alpha3.aar/91fec65bd5a38c0bdb8eef94e029a476/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] /Users/yoshi1125hisa/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-alpha3.aar/91fec65bd5a38c0bdb8eef94e029a476/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha3] /Users/yoshi1125hisa/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-alpha3.aar/10da5812a6ae47ee1c8a5202d278a4bb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha3] /Users/yoshi1125hisa/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-alpha3.aar/10da5812a6ae47ee1c8a5202d278a4bb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] /Users/yoshi1125hisa/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-alpha3.aar/c380821d0d5ed6e41499afc8dacdcc40/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] /Users/yoshi1125hisa/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-alpha3.aar/c380821d0d5ed6e41499afc8dacdcc40/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] /Users/yoshi1125hisa/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-alpha3.aar/a3177f92989f90dd0abb63f837082beb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] /Users/yoshi1125hisa/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-alpha3.aar/a3177f92989f90dd0abb63f837082beb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] /Users/yoshi1125hisa/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/77304c9101c485a18fd4505af736b1e8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] /Users/yoshi1125hisa/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/77304c9101c485a18fd4505af736b1e8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] /Users/yoshi1125hisa/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-alpha3.aar/9fdd8c0f8a9126a8fdbc352e5b0a9f73/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] /Users/yoshi1125hisa/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-alpha3.aar/9fdd8c0f8a9126a8fdbc352e5b0a9f73/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/yoshi1125hisa/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/3fc645dfcf5643e0699fdd6d25919004/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/yoshi1125hisa/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/3fc645dfcf5643e0699fdd6d25919004/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] /Users/yoshi1125hisa/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-alpha3.aar/d65fbd1b52e48f3db2302f1d781f1f56/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] /Users/yoshi1125hisa/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-alpha3.aar/d65fbd1b52e48f3db2302f1d781f1f56/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha3] /Users/yoshi1125hisa/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-alpha3.aar/c611b5f9625c305f7e6d9d8e06e6badf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha3] /Users/yoshi1125hisa/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-alpha3.aar/c611b5f9625c305f7e6d9d8e06e6badf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] /Users/yoshi1125hisa/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-alpha3.aar/df83315f22941e136dac3e37446f0a75/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] /Users/yoshi1125hisa/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-alpha3.aar/df83315f22941e136dac3e37446f0a75/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-alpha3] /Users/yoshi1125hisa/.gradle/caches/transforms-1/files-1.1/print-28.0.0-alpha3.aar/ec3a1f6efc4b9314bd5875964040353f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-alpha3] /Users/yoshi1125hisa/.gradle/caches/transforms-1/files-1.1/print-28.0.0-alpha3.aar/ec3a1f6efc4b9314bd5875964040353f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/yoshi1125hisa/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/e5fd3916eb29706adf4f1437927d46fa/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/yoshi1125hisa/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/e5fd3916eb29706adf4f1437927d46fa/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/yoshi1125hisa/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/714a5404a11c2f963af2cddc063c6338/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/yoshi1125hisa/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/714a5404a11c2f963af2cddc063c6338/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/yoshi1125hisa/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/839c0d4cd717e350361dbb90025e0dc0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/yoshi1125hisa/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/839c0d4cd717e350361dbb90025e0dc0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha3] /Users/yoshi1125hisa/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-alpha3.aar/499f97a1fa768141bf18ab813bba8a1c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha3] /Users/yoshi1125hisa/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-alpha3.aar/499f97a1fa768141bf18ab813bba8a1c/AndroidManifest.xml:20:5-44
+INJECTED from /Users/yoshi1125hisa/Desktop/YajuCalc/YajuCalc/app/src/main/AndroidManifest.xml
+INJECTED from /Users/yoshi1125hisa/Desktop/YajuCalc/YajuCalc/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/yoshi1125hisa/Desktop/YajuCalc/YajuCalc/app/src/main/AndroidManifest.xml
+		ADDED from /Users/yoshi1125hisa/Desktop/YajuCalc/YajuCalc/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yoshi1125hisa/Desktop/YajuCalc/YajuCalc/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/yoshi1125hisa/Desktop/YajuCalc/YajuCalc/app/src/main/AndroidManifest.xml
+		ADDED from /Users/yoshi1125hisa/Desktop/YajuCalc/YajuCalc/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yoshi1125hisa/Desktop/YajuCalc/YajuCalc/app/src/main/AndroidManifest.xml
